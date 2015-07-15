@@ -25,3 +25,6 @@ var myComplex2 = new Complex ( real, im );
 
 * Real (number) the real part of the number
 * Im (number) the imaginary part of the number
+
+
+See full documentation http://dev-emeka.github.io/ComplexJs-Web/
