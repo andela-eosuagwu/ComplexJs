@@ -10,6 +10,7 @@
 
 
 /**
+ * //
  * Creates Instance of Complex Class
  */
 function create(re, img) {
